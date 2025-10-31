@@ -270,7 +270,7 @@ Through this project, I developed and demonstrated:
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Data Cleaning Best Practices](https://www.kaggle.com/learn/data-cleaning)
-- [Census Tract Information](https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=geo013)
+- [Census Tract Information](https://open.ottawa.ca/datasets/23a8fa1918d9447aa51c2e9a26953e23/explore)
 
 ---
 
@@ -280,8 +280,8 @@ Through this project, I developed and demonstrated:
 IT Student at Carleton University  
 Passionate about data analysis, web development, and tech innovation
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gerno05-181717?style=flat&logo=github)](https://github.com/Gerno05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](your-linkedin-url)
+[![GitHub](https://github.com/Gerno05)
+
 
 ---
 
